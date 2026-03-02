@@ -32,7 +32,7 @@ I can manage multiple tasks well, but need to block time off for deep work to fe
 
 ### Schedule and prioritization
 
-I work best in afternoons (UTC+2), so I often work 11 am - 7 pm.
+I work best in afternoons ([CET](https://www.timeanddate.com/worldclock/poland/warsaw)), so I often work 11 am - 7 pm.
 It is the time when I am most productive.
 
 Outside of documentation work, I enjoy polishing UI text, like error messages, empty states, or field descriptions.
